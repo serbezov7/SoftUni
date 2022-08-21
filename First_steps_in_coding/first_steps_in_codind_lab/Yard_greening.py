@@ -1,0 +1,6 @@
+area_square_meters = float(input())
+price_one_square = float(7.61)
+discount = area_square_meters * price_one_square * float(0.18)
+final_price = area_square_meters * price_one_square * float(0.82)
+print(f"The final price is {final_price} lv.")
+print(f"The discount is {discount} lv.")
