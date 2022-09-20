@@ -1,2 +1,2 @@
-# Programing Basics SoftUni
+# SoftUni
  Lectures and Exercises
