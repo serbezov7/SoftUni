@@ -1,2 +1,0 @@
-# SoftUni
- Lectures and Exercises
